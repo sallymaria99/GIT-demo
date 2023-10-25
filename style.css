@@ -1,0 +1,23 @@
+/* Specifik classes */
+
+.header {
+  padding: 0.5rem 1rem;
+  background-color: lightcoral;
+}
+
+/* Utility classes */
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
